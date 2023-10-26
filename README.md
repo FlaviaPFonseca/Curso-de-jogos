@@ -2,8 +2,11 @@
 desenvolvimento-e-criacao-de-jogos nivel 1 
 
 <i>Princípios de Desenvolvimento de Jogos<i>
+
 <i>Criando suas Primeiras Páginas com HTML e CSS<i>
+
 <i>Deixando suas Páginas Web Dinâmicas com JavaScript<i>
+
 <i>Aprimorando Sua Lógica de Programação com Desafios de Código Básicos<i>
 
 <i>Aperfeiçoe Sua Lógica e Pensamento Computacional<i>
